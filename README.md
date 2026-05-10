@@ -1,3 +1,2 @@
 # Cyclistic-Bike-Share-Analysis
-Google Data Analytics capstone project 
 In this case study, I analyzed over 12 months of historical trip data from Cyclistic, a bike-share company in Chicago. Using Python for data cleaning and Power BI for visualization, I identified key differences in how casual riders and annual members use the service. My analysis revealed that casual riders take longer trips and are most active on weekends. Based on these insights, I proposed three strategic recommendations to convert casual riders into annual members to drive long-term growth
